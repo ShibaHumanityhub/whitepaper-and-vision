@@ -1,6 +1,6 @@
 # 🪄 Shibahumanityhub — Whitepaper & Vision
 
-Official home of the $NIBBLES & $HOPSEED whitepaper, full timeline, and dev-ready contribution specs.
+Official home of the $NIBBLES & $HOPESEED whitepaper, full timeline, and dev-ready contribution specs.
 
 **Since Nov 2025** — Building the greatest crypto charity movement ever.
 
