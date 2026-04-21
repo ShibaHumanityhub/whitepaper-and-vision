@@ -1,2 +1,9 @@
-# whitepaper-and-vision
-Official whitepaper, vision timeline, and dev-ready contribution specs for $NIBBLES &amp; $HOPESEED- Shiba Humanity Hub (Nov 2025 → 2026)
+# 🪄 Shibahumanityhub — Whitepaper & Vision
+
+Official home of the $NIBBLES & $HOPSEED whitepaper, full timeline, and dev-ready contribution specs.
+
+**Since Nov 2025** — Building the greatest crypto charity movement ever.
+
+Download the whitepaper: [shiba-Humanity-Hub-Whitepaper-v1-April-2026.pdf](shiba-Humanity-Hub-Whitepaper-v1-April-2026.pdf)
+
+See [TIMELINE.md](TIMELINE.md) for the complete journey.
